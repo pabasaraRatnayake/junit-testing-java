@@ -3,8 +3,7 @@ Java Unit Testing using J-Unit
 
 Dependencies: 
 
-
-    		<dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
