@@ -1,2 +1,2 @@
 # junit-testing-java
-Java Unit Testing with JUnit
+Java Unit Testing using J-Unit
